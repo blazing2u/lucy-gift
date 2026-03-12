@@ -48,7 +48,7 @@ const SPREADS: Spread[] = [
   {
     textSide: 'left',
     gradient: 'linear-gradient(135deg, #a0bdd4, #b0c8dc, #d4e4f0)',
-    media: '/Page 8/20260131_203737_1_1 (1).mp4',
+    media: '/Page 8/20260131_203737_1_2.mp4',
     title: 'Our Dynamic',
     body: "I love that when we\u2019re together we can just be our true selves. No embarrassment, no pretending. Just comfort, laughter, and the feeling that I\u2019m completely safe with you.",
   },
